@@ -1,5 +1,5 @@
-baseURL: "https://examplesite.com/"
-title: ExampleSite
+baseURL: "https://truemanluo.github.io/"
+title: turemanluo's blog
 paginate: 5
 theme: PaperMod
 
@@ -73,8 +73,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Truemanluo的一亩三分地 ⏯ 人间有味是清欢"
+    Content: 「Good morning, and in case I don't see you, good afternoon, good evening and good night.」 
 
   socialIcons:
     - name: twitter
@@ -115,16 +115,16 @@ params:
 menu:
   main:
     - identifier: categories
-      name: categories
+      name: 分类
       url: /categories/
       weight: 10
-    - identifier: tags
+    - identifier: 标签
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: Archives
+      name: archives
+      url: /archives
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
