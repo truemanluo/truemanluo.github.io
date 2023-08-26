@@ -115,15 +115,15 @@ params:
 menu:
   main:
     - identifier: categories
-      name: 分类
+      name: Categories
       url: /categories/
       weight: 10
-    - identifier: 标签
-      name: tags
+    - identifier: tags
+      name: Tags
       url: /tags/
       weight: 20
-    - identifier: Archives
-      name: archives
+    - identifier: archives
+      name: Archives
       url: /archives
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
