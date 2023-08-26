@@ -73,8 +73,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Truemanluo的一亩三分地 ⏯ 人间有味是清欢"
-    Content: 「Good morning, and in case I don't see you, good afternoon, good evening and good night.」 
+    Title: "家有一亩三分地🏕"
+    Content: 「Good morning, and in case I don't see you, good afternoon, good evening and good night.」 <br> --The Truman Show
 
   socialIcons:
     - name: twitter
